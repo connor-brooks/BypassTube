@@ -1,3 +1,5 @@
+## PLEASE NOTE: As of mid 2021 this project is no longer functional, due to changes made by YouTube. Sorry. 
+
 # BypassTube
 *Any video without a Google account*
 
